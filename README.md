@@ -45,7 +45,9 @@ cd lista-de-tarefas
 📂 Estrutura do Projeto
 
 lista-de-tarefas/
+
 │
+
 ├── index.html          # Estrutura da página
                        
 ├── style.css           # Estilos da aplicação
@@ -55,6 +57,10 @@ lista-de-tarefas/
 └── README.md           # Documentação
 
 📬 Contato
+
 Rafael Martins - rafaelmartinsgaldino2020@gmail.com
+
 Link do Projeto: https://github.com/RafaelMG/Project-Tasks-Manager
+
 Link: procjet-task-manager-rafaelmg.netlify.app
+
