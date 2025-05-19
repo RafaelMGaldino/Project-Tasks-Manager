@@ -47,8 +47,11 @@ cd lista-de-tarefas
 lista-de-tarefas/
 │
 ├── index.html          # Estrutura da página
+                       
 ├── style.css           # Estilos da aplicação
+
 ├── index.js            # Lógica de funcionamento
+
 └── README.md           # Documentação
 
 📬 Contato
